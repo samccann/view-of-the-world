@@ -24,3 +24,5 @@ Hello, let's get started!
  1. Again, run `git remote -v` and you see both the origin and upstream.
  
  Update 1: This change is made through the file on my local repo, on my box. 
+ 
+ Update 2: This change should be seen from master to origin repo.  
