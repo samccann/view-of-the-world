@@ -25,4 +25,4 @@ Hello, let's get started!
  
  Update 1: This change is made through the file on my local repo, on my box. 
  
- Update 2: This change should be seen from origin to master repo.  
+ Update 2: This change should be seen from master to origin repo.  
