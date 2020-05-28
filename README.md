@@ -8,7 +8,7 @@ Hello, let's get started!
     ```
     #navigate to the directory
     cd Documents
-    
+
     #clone the repository
     git clone https://github.com/<ENTER_USERNAME>/view-of-the-world.git
     ```
@@ -26,3 +26,5 @@ Hello, let's get started!
 Making update 1. Let's see if this shows up on github.com - Can see it.
 
 Update number 2: Does this Fedora 31 box hang when you are working on it? - Yay! Not Yet (update 3)
+
+Making update 3: samccann forces a conflict, cuz that's just the kind of writer she is.
