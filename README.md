@@ -25,4 +25,4 @@ Hello, let's get started!
 
 Making update 1. Let's see if this shows up on github.com - Can see it.
 
-Update number 2: Does this Fedora 31 box hang when you are working on it?
+Update number 2: Does this Fedora 31 box hang when you are working on it? - Yay! Not Yet (update 3)
