@@ -23,4 +23,6 @@ Hello, let's get started!
     ```
  1. Again, run `git remote -v` and you see both the origin and upstream.
 
-Making update 1. Let's see if this shows up on github.com
+Making update 1. Let's see if this shows up on github.com - Can see it.
+
+Update number 2: Does this Fedora 31 box hang when you are working on it?
